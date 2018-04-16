@@ -1,0 +1,64 @@
+body {
+  font-family: 'Karla';
+  font-size: 22px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+p{
+  font-family: 'Karla';
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: 'Karla';
+  font-size: 22px;
+}
+
+#i1{
+  margin-top: 13%;
+}
+
+#barra{
+  background:white;
+	height: 80px;
+	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	top: 0; /* Posicionamos la cabecera pegada arriba */
+  position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+}
+
+#nom{
+  font-family: 'Karla';
+  font-size: 22px;
+  color: black;
+  margin-left:3%;
+  margin-top: 1%
+}
+
+img{
+  width:60%;
+  height:60%;
+  max-width:100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 15%;
+}
+
+#feik1{
+  float: left;
+}
+
+#feik2{
+  float: right;
+}
+
+/*.imatges{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}*/
+
