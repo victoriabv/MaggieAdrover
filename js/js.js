@@ -1,5 +1,6 @@
-$(document).ready(function(){
-    $("#p1").mousedown(function(){
-        alert("Mouse down over p1!");
+$(function() {
+    $('img').on('click', function() {
+        $('.enlargeImageModalSource').attr('src', $(this).attr('src'));
+        $('#enlargeImageModal').modal('show');
     });
 });
