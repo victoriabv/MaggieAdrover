@@ -30,7 +30,7 @@ h3{
 
 #barra{
   background:white;
-	height: 80px;
+
 	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
 	left: 0; /* Posicionamos la cabecera al lado izquierdo */
 	top: 0; /* Posicionamos la cabecera pegada arriba */
@@ -42,7 +42,7 @@ h3{
   font-size: 22px;
   color: black;
   margin-left:3%;
-  margin-top: 1%
+  margin-top: 1%;
 }
 
 img{
